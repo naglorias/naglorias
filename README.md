@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naglorias
+- 👋 Hi, I’m Naglaa Raslan
 - 👀 I’m interested in ...Front End DEvelopment
 - 🌱 I’m currently learning ... Javascript
 - 📫 How to reach me ... Email:nagla__r@outlook.com
